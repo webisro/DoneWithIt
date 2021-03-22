@@ -18,7 +18,7 @@ export default function App() {
       <Button
         color="red"
         style={styles.buton}
-        title="Click Me 2"
+        title="Click Me"
         onPress={handlePress}
       />
     </SafeAreaView>
